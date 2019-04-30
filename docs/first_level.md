@@ -1,4 +1,4 @@
-#Instructions for running first-level analysis
+# Instructions for running first-level analysis
 
 First level analysis processes the functional images for each subject.
 
