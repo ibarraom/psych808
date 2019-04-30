@@ -18,7 +18,7 @@ That will convert the BIDS format timings to FSL format.
 
 2. Run `run_1stLevel_Analysis.sh` to run all subjects's first level analysis. The Registation of the high resolution to standard image should look something like this.
 
-highres2standard.png should display here
+![image](highres2standard.png)
 
 If there are substantial red lines outside of the brain, then there may
 be problems, and you should flag the subject for review.
